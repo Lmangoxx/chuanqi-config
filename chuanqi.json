@@ -1,0 +1,77 @@
+{
+  "version": 2,
+  "updatedAt": "2026-05-18",
+  "meta": {
+    "appName": "传奇助手",
+    "minAppVersion": 1
+  },
+  "menus": {},
+  "tasks": [
+    {
+      "id": "preset_treasure_master",
+      "name": "探宝达人",
+      "enabled": true,
+      "category": "日常",
+      "triggerTimes": [
+        {
+          "hour": 12,
+          "minute": 1,
+          "daysOfWeek": []
+        }
+      ],
+      "steps": [
+        {
+          "xPercent": 0.76489127,
+          "yPercent": 0.5131217,
+          "delayBeforeMs": 0,
+          "durationMs": 60
+        },
+        {
+          "xPercent": 0.51521957,
+          "yPercent": 0.80176306,
+          "delayBeforeMs": 2000,
+          "durationMs": 60
+        },
+        {
+          "xPercent": 0.397,
+          "yPercent": 0.804,
+          "delayBeforeMs": 600000,
+          "durationMs": 60
+        }
+      ]
+    },
+    {
+      "id": "preset_god_descend",
+      "name": "天神降世",
+      "enabled": true,
+      "category": "活动",
+      "triggerTimes": [
+        {
+          "hour": 19,
+          "minute": 41,
+          "daysOfWeek": []
+        }
+      ],
+      "steps": [
+        {
+          "xPercent": 0.76489127,
+          "yPercent": 0.5131217,
+          "delayBeforeMs": 0,
+          "durationMs": 60
+        },
+        {
+          "xPercent": 0.51521957,
+          "yPercent": 0.80176306,
+          "delayBeforeMs": 2000,
+          "durationMs": 60
+        },
+        {
+          "xPercent": 0.397,
+          "yPercent": 0.804,
+          "delayBeforeMs": 600000,
+          "durationMs": 60
+        }
+      ]
+    }
+  ]
+}
