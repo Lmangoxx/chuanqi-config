@@ -73,5 +73,40 @@
         }
       ]
     }
+  ],
+  "idleTargets": [
+    {
+      "name": "第1大陆",
+      "layers": [
+        { "name": "第1层", "xPercent": 0.5, "yPercent": 0.30 },
+        { "name": "第2层", "xPercent": 0.5, "yPercent": 0.40 },
+        { "name": "第3层", "xPercent": 0.5, "yPercent": 0.50 },
+        { "name": "第4层", "xPercent": 0.5, "yPercent": 0.60 },
+        { "name": "第5层", "xPercent": 0.5, "yPercent": 0.70 }
+      ]
+    },
+    {
+      "name": "第2大陆",
+      "layers": [
+        { "name": "第1层", "xPercent": 0.5, "yPercent": 0.25 },
+        { "name": "第2层", "xPercent": 0.5, "yPercent": 0.35 },
+        { "name": "第3层", "xPercent": 0.5, "yPercent": 0.45 },
+        { "name": "第4层", "xPercent": 0.5, "yPercent": 0.55 },
+        { "name": "第5层", "xPercent": 0.5, "yPercent": 0.65 },
+        { "name": "第6层", "xPercent": 0.5, "yPercent": 0.75 }
+      ]
+    },
+    {
+      "name": "第3大陆",
+      "layers": [
+        { "name": "第1层", "xPercent": 0.5, "yPercent": 0.22 },
+        { "name": "第2层", "xPercent": 0.5, "yPercent": 0.30 },
+        { "name": "第3层", "xPercent": 0.5, "yPercent": 0.38 },
+        { "name": "第4层", "xPercent": 0.5, "yPercent": 0.46 },
+        { "name": "第5层", "xPercent": 0.5, "yPercent": 0.54 },
+        { "name": "第6层", "xPercent": 0.5, "yPercent": 0.62 },
+        { "name": "第7层", "xPercent": 0.5, "yPercent": 0.70 }
+      ]
+    }
   ]
 }
